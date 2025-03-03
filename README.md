@@ -10,4 +10,4 @@
 
 ## 🚀 Мои проекты
 
-[![Репозиторий 1](https://github-readme-stats.vercel.app/api/pin/?username=ваш_логин&repo=название_репозитория&theme=radical)](https://github.com/WildSkjegg/1telegrambor.git)
+[![Репозиторий 1](https://github-readme-stats.vercel.app/api/pin/?username=WildSkjegg&repo=1telegrambor&theme=radical)](https://github.com/WildSkjegg/1telegrambor)
