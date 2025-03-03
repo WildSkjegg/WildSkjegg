@@ -6,3 +6,8 @@
 
 ## 🛠️ Технологии и инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+
+## 🚀 Мои проекты
+
+[![Репозиторий 1](https://github-readme-stats.vercel.app/api/pin/?username=ваш_логин&repo=название_репозитория&theme=radical)](https://github.com/WildSkjegg/1telegrambor.git)
